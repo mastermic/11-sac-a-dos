@@ -1,3 +1,2 @@
-/* dummy example */
-f(x) = nextprime(Pi << x);
-print(f(100))
+printmessage(m) = print(concat([Str(x)|x<-m]));
+[N,k,c] = readvec("input.txt");

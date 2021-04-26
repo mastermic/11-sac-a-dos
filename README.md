@@ -1,3 +1,8 @@
+# Sac à dos
+
+Le fichier ``input.txt`` contient une clef publique ``[N,[b1,...bn]]`` et
+un chiffré ``m_1*b_1+...m_n*b_n mod N``. On demande d'afficher la suite
+de 0 et de 1 ``m_1...m_n``.
 
 ## Format
 
